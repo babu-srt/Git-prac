@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "D:/Web Devlopment/Bootstrap-dev"
+		},
+		{
+			"path": "../css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap-dev"
+	}
+}
